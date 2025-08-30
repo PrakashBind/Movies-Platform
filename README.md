@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Movies-Platform
+The Movies Platform is a responsive React.js app that integrates with the OMDb API using Axios. It displays movies in a modern grid with posters, titles, and release years. Features include dynamic rendering, pagination with “More” button, and error handling for a seamless user experience.
+>>>>>>> c476cdc26e6b35a2522c3aa489ef8ac50428385e
