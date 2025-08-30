@@ -1,4 +1,5 @@
-The Movies Platform is a responsive React.js app that integrates with the OMDb API using Axios. It displays movies in a modern grid with posters, titles, and release years. Features include dynamic rendering, pagination with “More” button, and error handling for a seamless user experience.
+# Movies Web Application (React + Axios + Responsive UI)
+A Movies web application built using React.js with a responsive user interface. The project fetches movie and TV show data dynamically using Axios API integration, and includes components like Header, Banner, and Movies Section. It is styled with modern CSS for a seamless user experience across devices.
 
 <<<<<<< HEAD
 # React + Vite
