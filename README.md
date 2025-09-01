@@ -1,12 +1,12 @@
-# 🎬 Netflix Web Application
+# 🎬 Movies Web Application
 
-A Netflix-inspired web application built using **React.js** with a **responsive UI**.  
+A Movies-inspired web application built using **React.js** with a **responsive UI**.  
 The app dynamically fetches movies and TV shows using **Axios API integration**, and provides an engaging browsing experience with sections like **Header, Banner, and Movies list**.
 
 ---
 
 ## 🚀 Features
-- 🎥 Netflix-style UI with responsive design  
+- 🎥 Movies-style UI with responsive design  
 - 📡 API integration using Axios  
 - 🖼️ Dynamic Banner showcasing featured movies  
 - 📂 Movie sections categorized by genres  
