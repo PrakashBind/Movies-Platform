@@ -24,5 +24,7 @@ The app dynamically fetches movies and TV shows using **Axios API integration**,
 ## 📸 Screenshots
 
 ### Homepage
-![Movies-Platform](./Screenshots/home.png)
+![Movies-Platfor](./Screenshots/home.png)
 
+### Homepage
+![Movies-Platfor](./Screenshots/home.png)
